@@ -80,8 +80,8 @@ else:
 ```python
 ''' 
 Program to find the element in a list using Binary Search (recursive Method).
-Developed by:Vasanthamukilan.M
-RegisterNumber:22001986
+Developed by:MOHAMED FAREED.F
+RegisterNumber:22001617
 '''
 def binarySearch(arr, k, low, high):
     if low<=high:
